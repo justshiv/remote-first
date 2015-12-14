@@ -1,5 +1,5 @@
 # remote-first
 
-Company | Website | Careers
+Company | Blurb | Careers
 ------- | ------- | ---------
-test | test | test
+10up | We make web publishing and content management simple and fun, with open platforms like WordPress. | http://10up.com/careers/
