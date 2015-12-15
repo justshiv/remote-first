@@ -1,4 +1,4 @@
-# remote-first
+A list of companies that openly embrace the practises of a [remote-first](http://zachholman.com/posts/remote-first/) workflow. 
 
 Company | Blurb | Careers
 ------- | ------- | ---------
