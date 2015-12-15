@@ -1,4 +1,4 @@
-A list of tech companies that openly embrace the practises of a [remote-first](http://zachholman.com/posts/remote-first/) workflow. 
+A list of tech companies that openly embrace the practises of a [remote-first](http://zachholman.com/posts/remote-first/) workflow. All currently support/offer remote positions for international software engineers. 
 
 Company | Blurb | Apply here
 ------- | ------- | ---------
