@@ -15,4 +15,5 @@ Company | Blurb | Stack | Looking for | Apply here
 [Quarizmi](http://quarizmi.com) | The most advanced PPC software solution to allow advertisers and agencies scale paid search campaign management almost to infinity. | | | http://quarizmi.com/join-us/
 [SupportBee] (https://supportbee.com/) | SupportBee's Help Desk Software helps your team collaborate on customer support. All our plans come with UNLIMITED Agents. | | | https://angel.co/supportbee/jobs
 [Sussex Directories](https://sussexdirectories.com/) | Sussex Directories is a leading provider of online directories for professionals. Our directories provide professionals with more than 3 million client contacts each month (and growing). | | | https://angel.co/sussex-directories/jobs
+[X2AI](https://x2.ai/) | Emotional conversational AI that administers psychological therapy and helps psychologists monitor, remind and actively care for their patients remotely. | Python, MySQL, UNIX | Exemplary female engineers with a passion for NLP/ML/Psycomputing. | https://angel.co/x2ai/jobs
 [Zapier](https://zapier.com/) | Zapier makes it easy to automate tasks between web apps. | | | https://zapier.com/jobs/
