@@ -3,6 +3,7 @@ This is a curated list of tech companies that openly embrace the practises of a 
 Company | Blurb | Stack | Apply here
 ------- | ------| ----- | ----------
 [10up](http://10up.com) | We make content management simple with our premiere web design & development consulting services, by contributing to open platforms like WordPress, and by providing tools and products that make web publishing a cinch. | |  http://10up.com/careers/
+[Airbrake](https://airbrake.io/) | Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages. | | http://jobs.airbrake.io/
 [AngelList](https://angel.co/) | We're ~30 people, and more than half of us have started our own companies in the past. Our mission is to create a community where we can set founders and investors up for success. | | https://angel.co/angellist/jobs
 [Apcera](http://www.apcera.com/) | Apcera delivers fine-grained cloud security services and policy linked with enforcement. As a result, Apcera prevents debilitating security breaches and defines precise service access across your entire cloud infrastructure. | | http://www.apcera.com/careers
 [Apptimize](http://apptimize.com/) | Apptimize does A/B testing, feature flagging, phased rollouts, and analytics for native Android and iOS apps. | | http://apptimize.com/company/jobs/
